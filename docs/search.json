@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nThis website was created for demonstration purposes!\n\n\n\n",
+      "last_modified": "2022-03-18T14:43:44+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Website is Awesome",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-18T14:43:44+01:00"
+    }
+  ],
+  "collections": []
+}
